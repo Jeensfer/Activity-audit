@@ -31,7 +31,8 @@ To audit and monitor cloud activity in AWS using AWS CloudTrail by viewing and a
 
 4.Select AWS CloudTrail. 
 
-Output:<img width="1918" height="903" alt="image" src="https://github.com/user-attachments/assets/7c604820-1edb-4be6-93f5-787c76deeab2" />
+Output:<img width="1919" height="948" alt="Screenshot 2026-09-01 123950" src="https://github.com/user-attachments/assets/777ccebc-00a3-4226-a51b-8362d6071229" />
+
 
 ## Step 2: Open Event History
 
@@ -54,7 +55,7 @@ The Event History page may display information such as:
 
   -> Resource name 
 
-Output:<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/f8829658-e4f0-4e50-b6ff-4711684a577c" />
+Output:<img width="1919" height="947" alt="Screenshot 2026-09-01 124019" src="https://github.com/user-attachments/assets/fc6da2bc-6827-4c70-bf5d-0caba4cf9aad" />
 
 ## PART B — ANALYZE A CLOUDTRAIL EVENT
 
@@ -109,7 +110,8 @@ Read-only -	Indicates whether the event was only a read operation or involved a 
 
 Error Code -	Indicates whether an error occurred
 
-Output:<img width="1839" height="514" alt="image" src="https://github.com/user-attachments/assets/daebfb64-7541-4026-81f3-13a1249fb9b0" />
+Output:<img width="1918" height="943" alt="image" src="https://github.com/user-attachments/assets/1b092cee-d848-4f46-9dbb-5748268880fd" />
+
 
 ## PART C — IDENTIFY ANOTHER CLOUDTRAIL EVENT
 ## Step 5: Select Another Event
